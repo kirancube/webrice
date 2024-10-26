@@ -1,0 +1,10 @@
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+"dependencies": {
+  "next": "13.x.x",    // replace with the latest version if needed
+  "react": "18.x.x",
+  "react-dom": "18.x.x"
+}
