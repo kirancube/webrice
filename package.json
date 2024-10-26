@@ -4,7 +4,7 @@
   "start": "next start"
 }
 "dependencies": {
-  "next": "13.x.x",    // replace with the latest version if needed
-  "react": "18.x.x",
-  "react-dom": "18.x.x"
+  "next": "13.1.1",    
+  "react": "18.1.1",
+  "react-dom": "18.1.1"
 }
